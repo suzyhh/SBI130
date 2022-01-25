@@ -1,0 +1,11 @@
+Inherited Defects of the ASC-1 Complex in Congenital Neuromuscular Diseases.	Ferreiro A	2021 Jun 3	International journal of molecular sciences	34204919 
+Biallelic ASCC1 variants including a novel intronic variant result in expanded phenotypic spectrum of spinal muscular atrophy with congenital bone fractures 2 (SMABF2).	Wambach JA	2021 Jul	American journal of medical genetics. Part A	33931933 
+Association between non-Caucasian-specific ASCC1 gene polymorphism and osteoporosis and obesity in Korean postmenopausal women.	Eom YB	2020 Nov	Journal of bone and mineral metabolism	32653958 
+Novel compound heterozygous pathogenic variants in ASCC1 in a Chinese patient with spinal muscular atrophy with congenital bone fractures 2 : Evidence supporting a "Definitive" gene-disease relationship.	Shen Y	2020 May	Molecular genetics & genomic medicine	32160656 
+A new case of SMABF2 diagnosed in stillbirth expands the prenatal presentation and mutational spectrum of ASCC1.	Pizzuti A	2020 Mar	American journal of medical genetics. Part A	31880396 
+Novel <i>ASCC1</i> mutations causing prenatal-onset muscle weakness with arthrogryposis and congenital bone fractures.	Laporte J	2019 Sep	Journal of medical genetics	30327447 
+RNA ligase-like domain in activating signal cointegrator 1 complex subunit 1 (ASCC1) regulates ASCC complex function during alkylation damage.	Mosammaparast N	2018 Aug 31	The Journal of biological chemistry	29997253 
+The new neuromuscular disease related with defects in the ASC-1 complex: report of a second case confirms ASCC1 involvement.	Santos R	2017 Oct	Clinical genetics	28218388 
+Mutations in Subunits of the Activating Signal Cointegrator 1 Complex Are Associated with Prenatal Spinal Muscular Atrophy and Congenital Bone Fractures.	Schuelke M	2016 Mar 3	American journal of human genetics	26924529 
+A Truncated Variant of ASCC1, a Novel Inhibitor of NF-κB, Is Associated with Disease Severity in Patients with Rheumatoid Arthritis.	Fernández-Luna JL	2015 Dec 1	Journal of immunology (Baltimore, Md. : 1950)	26503956 
+Germline mutations in MSR1, ASCC1, and CTHRC1 in patients with Barrett esophagus and esophageal adenocarcinoma.	Eng C	2011 Jul 27	JAMA	21791690 

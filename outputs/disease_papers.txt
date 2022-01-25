@@ -1,0 +1,245 @@
+Imaging-based evaluation of pathogenicity by novel DNM2 variants associated with centronuclear myopathy.	Noguchi S	2021 Nov 27	Human mutation	34837441 
+Mutational and clinical spectrum of centronuclear myopathy in 9 cases and a literature review of Chinese patients.	Wang Z	2021 Sep 30	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	34595679 
+Clinical, genetic, and histological features of centronuclear myopathy in the Netherlands.	Voermans NC	2021 Dec	Clinical genetics	34463354 
+Mice with muscle-specific deletion of Bin1 recapitulate centronuclear myopathy and acute downregulation of dynamin 2 improves their phenotypes.	Laporte J	2021 Aug 8	Molecular therapy : the journal of the American Society of Gene Therapy	34371181 
+Centronuclear myopathy due to a de novo nonsense variant and a maternally inherited splice-site variant in <i>TTN</i>: A case report.	Chang X	2021 Jul	Clinical case reports	34295493 
+Clinical and genetic analysis of a case with centronuclear myopathy caused by SPEG gene mutation: a case report and literature review.	Chang X	2021 Apr 29	BMC pediatrics	33926407 
+Satellite cells deficiency and defective regeneration in dynamin 2-related centronuclear myopathy.	Vainzof M	2021 Apr	FASEB journal : official publication of the Federation of American Societies for Experimental Biology	33715228 
+Hierarchical Bayesian modelling of disease progression to inform clinical trial design in centronuclear myopathy.	Servais L	2021 Jan 6	Orphanet journal of rare diseases	33407688 
+Mutant BIN1-Dynamin 2 complexes dysregulate membrane remodeling in the pathogenesis of centronuclear myopathy.	Takeda T	2021 Jan-Jun	The Journal of biological chemistry	33187981 
+A case of de novo dynamin 2 (DNM2)-related centronuclear myopathy with electrical but not clinical myotonia.	Fan DS	2020 Aug 18	Chinese medical journal	32826616 
+Physiological impact and disease reversion for the severe form of centronuclear myopathy linked to dynamin.	Laporte J	2020 Sep 17	JCI insight	32809972 
+The intragenic microRNA <i>miR199A1</i> in the dynamin 2 gene contributes to the pathology of X-linked centronuclear myopathy.	Zhu MS	2020 Jun 26	The Journal of biological chemistry	32354746 
+A DNM2 Centronuclear Myopathy Mutation Reveals a Link between Recycling Endosome Scission and Autophagy.	Rubinsztein DC	2020 Apr 20	Developmental cell	32315611 
+Centronuclear Myopathy with Abundant Nemaline Rods in a Japanese Black and Hereford Crossbred Calf.	Furuoka H	2020 Jan	Journal of comparative pathology	31955807 
+Paraspinal amyotrophy in DNM-2-related centronuclear myopathy.	Arawaka S	2019 Dec 15	Journal of the neurological sciences	31655408 
+Different in vivo impacts of dynamin 2 mutations implicated in Charcot-Marie-Tooth neuropathy or centronuclear myopathy.	Cowling BS	2019 Dec 15	Human molecular genetics	31628461 
+Novel SPEG variant cause centronuclear myopathy in China.	Luo L	2020 Feb	Journal of clinical laboratory analysis	31625632 
+A homozygous mutation in GMPPB leads to centronuclear myopathy with combined pre- and postsynaptic defects of neuromuscular transmission.	Milone M	2019 Aug	Neuromuscular disorders : NMD	31378432 
+Allele-Specific CRISPR/Cas9 Correction of a Heterozygous DNM2 Mutation Rescues Centronuclear Myopathy Cell Phenotypes.	Laporte J	2019 Jun 7	Molecular therapy. Nucleic acids	30925452 
+Nuclear defects in skeletal muscle from a Dynamin 2-linked centronuclear myopathy mouse model.	Bitoun M	2019 Feb 7	Scientific reports	30733559 
+Centronuclear myopathy with cardiomyopathy due to recessive titinopathy.	Liewluck T	2019 Apr	Muscle & nerve	30681174 
+Reducing dynamin 2 (DNM2) rescues <i>DNM2</i>-related dominant centronuclear myopathy.	Cowling BS	2018 Oct 23	Proceedings of the National Academy of Sciences of the United States of America	30291191 
+Non-compaction cardiomyopathy and early respiratory failure in an adult symptomatic female carrier of centronuclear myopathy caused by a MTM1 mutation.	Olivé M	2018 Nov	Neuromuscular disorders : NMD	30241883 
+A novel SPEG mutation causes non-compaction cardiomyopathy and neuropathy in a floppy infant with centronuclear myopathy.	Cirak S	2018 Aug 29	Acta neuropathologica communications	30157964 
+An integrated modelling methodology for estimating the prevalence of centronuclear myopathy.	Thielemans L	2018 Sep	Neuromuscular disorders : NMD	30122513 
+[Centronuclear myopathy: clinical characteristics and MRI image features of oral and maxillofacial region].	Wu YK	2017 Jul 9	Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology	29972905 
+A Roma founder <i>BIN1</i> mutation causes a novel phenotype of centronuclear myopathy with rigid spine.	Paradas C	2018 Jul 24	Neurology	29950440 
+Giant biventricular aneurysms: a novel cardiac phenotype in myotubular/centronuclear myopathy.	Tercedor L	2018 Dec 21	European heart journal	29668875 
+Allele-specific silencing therapy for Dynamin 2-related dominant centronuclear myopathy.	Bitoun M	2018 Feb	EMBO molecular medicine	29246969 
+Dominant Centronuclear Myopathy with Early Childhood Onset due to a Novel Mutation in BIN1.	Voermans N	2017	Journal of neuromuscular diseases	29103045 
+Impaired excitation-contraction coupling in muscle fibres from the dynamin2<sup>R465W</sup> mouse model of centronuclear myopathy.	Jacquemond V	2017 Dec 15	The Journal of physiology	29071728 
+Common and variable clinical, histological, and imaging findings of recessive RYR1-related centronuclear myopathy patients.	Zanoteli E	2017 Nov	Neuromuscular disorders : NMD	28818389 
+A rare case of centronuclear myopathy with <i>DNM2</i> mutation: genotype-phenotype correlation.	Lechpammer M	2017 Apr-Jun	Autopsy & case reports	28740838 
+Dynamin-2 mutations linked to Centronuclear Myopathy impair actin-dependent trafficking in muscle cells.	Cárdenas AM	2017 Jul 4	Scientific reports	28676641 
+Emery-Dreifuss muscular dystrophy-linked genes and centronuclear myopathy-linked genes regulate myonuclear movement by distinct mechanisms.	Folker ES	2017 Aug 15	Molecular biology of the cell	28637766 
+Insights from genotype-phenotype correlations by novel SPEG mutations causing centronuclear myopathy.	Cirak S	2017 Sep	Neuromuscular disorders : NMD	28624463 
+Exome sequencing is a valuable approach in critically ill patients with suspected monogenic disease: Diagnosis of X-linked centronuclear myopathy in preterm twins.	Denecke J	2017 Oct	Pediatrics and neonatology	27989427 
+Progressive Structural Defects in Canine Centronuclear Myopathy Indicate a Role for HACD1 in Maintaining Skeletal Muscle Membrane Systems.	Piercy RJ	2017 Feb	The American journal of pathology	27939133 
+Calcium homeostasis alterations in a mouse model of the Dynamin 2-related centronuclear myopathy.	Bitoun M	2016 Nov 15	Biology open	27870637 
+Clinical, Electrophysiology, and Pathology Features of Dynamin Centronuclear Myopathy: A Case Report and Review of Literature.	Balasubramanian SB	2016 Dec	Journal of clinical neuromuscular disease	27861221 
+Novel Dominant Mutation in BIN1 Gene Causing Mild Centronuclear Myopathy Revealed by Myalgias and CK Elevation.	Romero NB	2016 Mar 3	Journal of neuromuscular diseases	27854204 
+Adult- Onset Centronuclear Myopathy.	Sivakumar S	2016 Jun	The Journal of the Association of Physicians of India	27739277 
+Structural insights into the centronuclear myopathy-associated functions of BIN1 and dynamin 2.	Galli V	2016 Oct	Journal of structural biology	27343996 
+Erratum: Reply: Respiratory motor function in centronuclear myopathy.		2016 Jun	Muscle & nerve	27198895 
+[Retracted] Clinical, pathological and genetic characteristics of autosomal dominant inherited dynamin 2 centronuclear myopathy.	Yan C	2016 Jul	Molecular medicine reports	27176730 
+Clinical, pathological and genetic characteristics of autosomal dominant inherited dynamin 2 centronuclear myopathy.	Yan C	2016 May	Molecular medicine reports	27035234 
+Noninvasive Assessment of Neuromuscular Disease in Dogs: Use of the 6-minute Walk Test to Assess Submaximal Exercise Tolerance in Dogs with Centronuclear Myopathy.	Todhunter R	2016 May	Journal of veterinary internal medicine	27012153 
+DNM2 mutations in Chinese Han patients with centronuclear myopathy.	Yan C	2016 Jun	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	26908122 
+Neuromuscular blocking effects of cisatracurium and its antagonism with neostigmine in a canine model of autosomal-recessive centronuclear myopathy.	Gleed RD	2015 Dec	British journal of anaesthesia	26582854 
+Reply: Respiratory motor function in centronuclear myopathy.	Byrne BJ	2016 Apr	Muscle & nerve	26561983 
+DNM2 mutations in a cohort of sporadic patients with centronuclear myopathy.	Zanoteli E	2015 May	Genetics and molecular biology	26273216 
+Dynamin-2 mutations associated with centronuclear myopathy are hypermorphic and lead to T-tubule fragmentation.	Liu YW	2015 Oct 1	Human molecular genetics	26199319 
+Phospholamban overexpression in mice causes a centronuclear myopathy-like phenotype.	Tupling AR	2015 Aug 1	Disease models & mechanisms	26035394 
+Neuromuscular blocking effects of vecuronium in dogs with autosomal-recessive centronuclear myopathy.	Campoy L	2015 Apr	American journal of veterinary research	25815571 
+A novel dynamin-2 gene mutation associated with a late-onset centronuclear myopathy with necklace fibres.	Oldfors A	2015 Apr	Neuromuscular disorders : NMD	25633151 
+The kalaemic and neuromuscular effects of succinylcholine in centronuclear myopathy: A pilot investigation in a canine model.	Gleed RD	2015 Oct	European journal of anaesthesiology	25603385 
+Clinical, pathological, and genetic features of dynamin-2-related centronuclear myopathy in China.	Shi Q	2015 May	Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology	25501959 
+The coexistence of dynamin 2 mutation and multiple mitochondrial DNA (mtDNA) deletions in the background of severe cardiomyopathy and centronuclear myopathy.	Molnar MJ	2015 Mar-Apr	Clinical neuropathology	25492887 
+Suspected congenital centronuclear myopathy in an Arabian-cross foal.	Shelton GD	2014 Nov-Dec	Journal of veterinary internal medicine	25410957 
+N-WASP is required for Amphiphysin-2/BIN1-dependent nuclear positioning and triad organization in skeletal muscle and is involved in the pathophysiology of centronuclear myopathy.	Gomes ER	2014 Nov	EMBO molecular medicine	25262827 
+Adult-onset autosomal dominant centronuclear myopathy due to BIN1 mutations.	Laporte J	2014 Dec	Brain : a journal of neurology	25260562 
+SPEG interacts with myotubularin, and its deficiency causes centronuclear myopathy with dilated cardiomyopathy.	Beggs AH	2014 Aug 7	American journal of human genetics	25087613 
+Identification of the mutation causing centronuclear myopathy in a border collie.	Shelton GD	2014 Aug 2	The Veterinary record	25081885 
+Contraction versus contracture and centronuclear myopathy versus central part myopathy in malignant hyperthermia.	Do Amaral JL	2014 Mar-Apr	Brazilian journal of anesthesiology (Elsevier)	24794461 
+Mutations in BIN1 associated with centronuclear myopathy disrupt membrane remodeling by affecting protein density and oligomerization.	Baumgart T	2014	PloS one	24755653 
+Reducing dynamin 2 expression rescues X-linked centronuclear myopathy.	Laporte J	2014 Mar	The Journal of clinical investigation	24569376 
+Dynamin 2 the rescue for centronuclear myopathy.	McNally EM	2014 Mar	The Journal of clinical investigation	24569368 
+Bridging integrator 1 (Bin1) deficiency in zebrafish results in centronuclear myopathy.	Beggs AH	2014 Jul 1	Human molecular genetics	24549043 
+Clinical and Pathological Features of Korean Patients with DNM2-Related Centronuclear Myopathy.	Kim DS	2014 Jan	Journal of clinical neurology (Seoul, Korea)	24465259 
+Myotonia in DNM2-related centronuclear myopathy.	Leshinsky-Silver E	2014 May	Journal of neural transmission (Vienna, Austria : 1996)	24366529 
+A mutation associated with centronuclear myopathy enhances the size and stability of dynamin 2 complexes in cells.	Jameson DM	2014 Jan	Biochimica et biophysica acta	24016602 
+Recessive truncating titin gene, TTN, mutations presenting as centronuclear myopathy.	Beggs AH	2013 Oct 1	Neurology	23975875 
+Titin and centronuclear myopathy: The tip of the iceberg for TTN-ic mutations?	Dowling JJ	2013 Oct 1	Neurology	23975873 
+Loss of catalytically inactive lipid phosphatase myotubularin-related protein 12 impairs myotubularin stability and promotes centronuclear myopathy in zebrafish.	Beggs AH	2013 Jun	PLoS genetics	23818870 
+Muscle-specific function of the centronuclear myopathy and Charcot-Marie-Tooth neuropathy-associated dynamin 2 is required for proper lipid metabolism, mitochondria, muscle fibers, neuromuscular junctions and peripheral nerves.	Suter U	2013 Nov 1	Human molecular genetics	23813975 
+Altered splicing of the BIN1 muscle-specific exon in humans and dogs with highly progressive centronuclear myopathy.	Laporte J	2013 Jun	PLoS genetics	23754947 
+Centronuclear myopathy related to dynamin 2 mutations: clinical, morphological, muscle imaging and genetic features of an Italian cohort.	D'Amico A	2013 Mar	Neuromuscular disorders : NMD	23394783 
+A novel mutation in the DNM2 gene impairs dynamin 2 localization in skeletal muscle of a patient with late onset centronuclear myopathy.	Kaminska AM	2013 Mar	Neuromuscular disorders : NMD	23374900 
+Neuromuscular junction abnormalities in DNM2-related centronuclear myopathy.	Dowling JJ	2013 Jun	Journal of molecular medicine (Berlin, Germany)	23338057 
+Centronuclear myopathy in Labrador retrievers: a recent founder mutation in the PTPLA gene has rapidly disseminated worldwide.	Tiret L	2012	PloS one	23071563 
+Phosphatase-dead myotubularin ameliorates X-linked centronuclear myopathy phenotypes in mice.	Friant S	2012	PLoS genetics	23071445 
+Centronuclear myopathy in a Border collie dog.	Shelton GD	2012 Oct	The Journal of small animal practice	23013377 
+Histopathologic changes in the extraocular muscle in centronuclear myopathy with a Dynamin 2 mutation.	Edward DP	2013 Mar-Jun	Ophthalmic genetics	22924779 
+Clinicopathological features of centronuclear myopathy in Japanese populations harboring mutations in dynamin 2.	Nishino I	2012 Jul	Clinical neurology and neurosurgery	22613877 
+Mutation spectrum in the large GTPase dynamin 2, and genotype-phenotype correlation in autosomal dominant centronuclear myopathy.	Laporte J	2012 Jun	Human mutation	22396310 
+A centronuclear myopathy--dynamin 2 mutation impairs autophagy in mice.	Bitoun M	2012 Jun	Traffic (Copenhagen, Denmark)	22369075 
+Mild functional differences of dynamin 2 mutations associated to centronuclear myopathy and Charcot-Marie Tooth peripheral neuropathy.	Laporte J	2011	PloS one	22096584 
+Mice lacking microRNA 133a develop dynamin 2–dependent centronuclear myopathy.	Olson EN	2011 Aug	The Journal of clinical investigation	21737882 
+Dilated cardiomyopathy with centronuclear myopathy in a young male.	Kobayashi Y	2011 Jul 15	International journal of cardiology	21658785 
+Increased expression of wild-type or a centronuclear myopathy mutant of dynamin 2 in skeletal muscle of adult mice leads to structural defects and muscle weakness.	Laporte J	2011 May	The American journal of pathology	21514436 
+Endplate structure and parameters of neuromuscular transmission in sporadic centronuclear myopathy associated with myasthenia.	Engel AG	2011 Jun	Neuromuscular disorders : NMD	21482111 
+Sporadic centronuclear myopathy with muscle pseudohypertrophy, neutropenia, and necklace fibres due to a DNM2 mutation.	Fardeau M	2011 Feb	Neuromuscular disorders : NMD	21247764 
+Phenotype variability and histopathological findings in centronuclear myopathy due to DNM2 mutations.	Zierz S	2011 Jun	Journal of neurology	21221624 
+Frequency of the allelic variant of the PTPLA gene responsible for centronuclear myopathy in Labrador Retriever dogs as assessed in Italy.	Gernone F	2011 Jan	Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc	21217042 
+Case report of intrafamilial variability in autosomal recessive centronuclear myopathy associated to a novel BIN1 stop mutation.	Laporte J	2010 Dec 3	Orphanet journal of rare diseases	21129173 
+A centronuclear myopathy-dynamin 2 mutation impairs skeletal muscle structure and function in mice.	Bitoun M	2010 Dec 15	Human molecular genetics	20858595 
+Sporadic centronuclear myopathy with muscle pseudohypertrophy, neutropenia, and necklace fibers due to a DNM2 mutation.	Engel AG	2010 Dec	Neuromuscular disorders : NMD	20817456 
+Dynamin GTPase regulation is altered by PH domain mutations found in centronuclear myopathy patients.	Lemmon MA	2010 Sep 15	The EMBO journal	20700106 
+Severe phenotype of a patient with autosomal recessive centronuclear myopathy due to a BIN1 mutation.	Sejersen T	2009 Dec	Acta myologica : myopathies and cardiomyopathies : official journal of the Mediterranean Society of Myology	20476667 
+Novel molecular diagnostic approaches for X-linked centronuclear (myotubular) myopathy reveal intronic mutations.	Laporte J	2010 Jun	Neuromuscular disorders : NMD	20434914 
+Expanding the clinical, pathological and MRI phenotype of DNM2-related centronuclear myopathy.	North KN	2010 Apr	Neuromuscular disorders : NMD	20227276 
+Phenotype of a patient with recessive centronuclear myopathy and a novel BIN1 mutation.	Stojkovic T	2010 Feb 9	Neurology	20142620 
+Centronuclear myopathy with cataracts due to a novel dynamin 2 (DNM2) mutation.	Muntoni F	2010 Jan	Neuromuscular disorders : NMD	19932620 
+Adult course in dynamin 2 dominant centronuclear myopathy with neonatal onset.	Laporte J	2010 Jan	Neuromuscular disorders : NMD	19932619 
+Surgery for foot deformity in patients with congenital myopathy (multicore disease, congenital fiber-type disproportion, and centronuclear myopathy).	Machida J	2009 Jul	Journal of pediatric orthopedics. Part B	19483656 
+Mitochondrial alterations in dynamin 2-related centronuclear myopathy.	d'Azzo A	2009 Mar	Arquivos de neuro-psiquiatria	19330221 
+Dynamin 2-related centronuclear myopathy: clinical, histological and genetic aspects of further patients and review of the literature.	Fischer D	2008 Nov-Dec	Clinical neuropathology	19130742 
+A new centronuclear myopathy phenotype due to a novel dynamin 2 mutation.	Romero NB	2009 Jan 6	Neurology	19122038 
+[Clinical and biopsy-based myopathological features of 5 cases with centronuclear myopathy].	Yan CZ	2008 Nov	Zhonghua er ke za zhi = Chinese journal of pediatrics	19099905 
+"Necklace" fibers, a new histological marker of late-onset MTM1-related centronuclear myopathy.	Romero NB	2009 Mar	Acta neuropathologica	19084976 
+Myotubular/centronuclear myopathy and central core disease.	Nishino I	2008 Jul-Sep	Neurology India	18974559 
+Centronuclear (myotubular) myopathy.	Laporte J	2008 Sep 25	Orphanet journal of rare diseases	18817572 
+Genetic testing for all forms of myotubular/centronuclear myopathy.	Foye PM	2008 Mar-Apr	Clinical neuropathology	18402390 
+Autosomal dominant centronuclear myopathy with unique clinical presentations.	Park KS	2007 Dec	Journal of Korean medical science	18162732 
+[Mutations in amphiphysin 2 (BIN1) cause autosomal recessive centronuclear myopathy].	Laporte J	2007 Dec	Medecine sciences : M/S	18154705 
+Dynamin 2 mutations cause sporadic centronuclear myopathy with neonatal onset.	Guicheney P	2007 Dec	Annals of neurology	17932957 
+Regional anaesthesia in a patient with centronuclear (myotubular) myopathy.	Mendonca C	2007 Nov	Anaesthesia	17924914 
+Subtle central and peripheral nervous system abnormalities in a family with centronuclear myopathy and a novel dynamin 2 gene mutation.	Laporte J	2007 Dec	Neuromuscular disorders : NMD	17825552 
+Mutations in amphiphysin 2 (BIN1) disrupt interaction with dynamin 2 and cause autosomal recessive centronuclear myopathy.	Laporte J	2007 Sep	Nature genetics	17676042 
+Centronuclear myopathy due to a de novo dominant mutation in the skeletal muscle ryanodine receptor (RYR1) gene.	Muntoni F	2007 Apr	Neuromuscular disorders : NMD	17376685 
+Underdiagnosis of X-linked myotubular myopathy and other forms of centronuclear myopathy.	Foye PM	2007 Mar	Neuromuscular disorders : NMD	17306534 
+An atypical presentation of sporadic adult-onset centronuclear myopathy.	Fontanini G	2007 Jan-Feb	Clinical neuropathology	17290936 
+Myopathic (not neuropathic) electrophysiological abnormalities in dynamin 2-related centronuclear myopathy.	Foye PM	2007 Feb	Brain : a journal of neurology	17235117 
+MRI in DNM2-related centronuclear myopathy: evidence for highly selective muscle involvement.	Bönnemann CG	2007 Jan	Neuromuscular disorders : NMD	17134899 
+A novel PtdIns3P and PtdIns(3,5)P2 phosphatase with an inactivating variant in centronuclear myopathy.	Laporte J	2006 Nov 1	Human molecular genetics	17008356 
+Characterization of the muscle involvement in dynamin 2-related centronuclear myopathy.	Romero NB	2006 Jun	Brain : a journal of neurology	16585051 
+[Mutations in dynamin 2 cause dominant centronuclear myopathy].	Guicheney P	2006 Feb	Medecine sciences : M/S	16457739 
+Mutations in dynamin 2 cause dominant centronuclear myopathy.	Guicheney P	2005 Nov	Nature genetics	16227997 
+Centronuclear myopathy in mice lacking a novel muscle-specific protein kinase transcriptionally regulated by MEF2.	Olson EN	2005 Sep 1	Genes & development	16140986 
+SINE exonic insertion in the PTPLA gene leads to multiple splicing defects and segregates with the autosomal recessive centronuclear myopathy in dogs.	Panthier JJ	2005 Jun 1	Human molecular genetics	15829503 
+Clinical and histologic findings in autosomal centronuclear myopathy.	Romero NB	2004 May 11	Neurology	15136669 
+A case of adult-onset centronuclear myopathy.	Choi YC	2004 Apr 30	Yonsei medical journal	15119013 
+The cnm locus, a canine homologue of human autosomal forms of centronuclear myopathy, maps to chromosome 2.	Panthier JJ	2003 Sep	Human genetics	12884002 
+X-linked centronuclear myopathy.	Yuh YS	2003 May	American journal of perinatology	12874727 
+Centronuclear myopathy and cardiomyopathy requiring heart transplant.	Jay V	2003 Jan	Brain & development	12536036 
+General anaesthesia with remifentanil and propofol for a patient with centronuclear (myotubular) myopathy.	Arkuszewski P	2002 Nov	European journal of anaesthesiology	12442940 
+[Centronuclear myopathy].	Nishino I	2001	Ryoikibetsu shokogun shirizu	11555971 
+Centronuclear myopathy--morphological relation to developing human skeletal muscle: a clinicopathological evaluation.	Shankar SK	2000 Mar	Neurology India	10751809 
+Diagnostic challenges in combined multiple sclerosis and centronuclear myopathy.	Vissing J	2000 Sep	European journal of neurology	11054145 
+Temporomandibular joint involvement in a patient with centronuclear myopathy.	Gabbai AA	2000 Jul	Oral surgery, oral medicine, oral pathology, oral radiology, and endodontics	10884647 
+Anaesthesia in myotubular (centronuclear) myopathy.	Mirakhur RK	2000 May	Anaesthesia	10792141 
+Caveolin-3 and sarcoglycans in the vacuolar myopathies and centronuclear myopathy.	Osame M	1999 Aug	Muscle & nerve	10417791 
+Centronuclear myopathy: subgroup characterized by tissue mosaicism.	Metze K	1999 Jun	Arquivos de neuro-psiquiatria	10412542 
+General anesthesia for a patient with centronuclear (myotubular) myopathy.	Quinn PD	1998 Oct	Anesthesiology	9778019 
+Centronuclear myopathy. Histopathological aspects in ten patients with childhood onset.	Gabbai AA	1998 Mar	Arquivos de neuro-psiquiatria	9686113 
+Centronuclear myopathy: clinical aspects of ten Brazilian patients with childhood onset.	Gabbai AA	1998 Jun 11	Journal of the neurological sciences	9667782 
+Abundant minute myotubes in a patient who later developed centronuclear myopathy.	Bornemann A	1998 May	Acta neuropathologica	9600602 
+Autosomal dominant centronuclear myopathy: report of a new family with clinical features simulating facioscapulohumeral syndrome.	Grunnet ML	1997 Sep	Muscle & nerve	9270681 
+[Diagnosis of centronuclear myopathy in adults].	Díaz-Espejo C	1997 Aug	Revista de neurologia	9340153 
+[Centronuclear myopathy and pregnancy. A case report].	Marsico S	1997 Apr	Minerva ginecologica	9206769 
+Pathological case of the month. Centronuclear (myotubular) myopathy.	Selby DM	1996 Jun	Archives of pediatrics & adolescent medicine	8646319 
+[Late centronuclear myopathy: autosomal dominant form].	Hernández JE	1996 Feb	Revista medica de Chile	9213890 
+Congenital myopathy with ringlike distribution of myonuclei and mitochondria and accumulation of nemaline rods. A variant of centronuclear myopathy?	Rust RS	1995 May	Pediatric neurology	7546014 
+Centronuclear myopathy and nursing pattern caries: management of a 1 year old.	Needleman HL	1995 Fall	The Journal of clinical pediatric dentistry	8634202 
+Anaesthesia for a child with centronuclear myopathy.	Currie J	1995	Paediatric anaesthesia	7489460 
+[Myotubular myopathy (centronuclear) and expected difficult intubation. Anesthetic management].	Bolinches R	1994 Sep-Oct	Revista espanola de anestesiologia y reanimacion	7991915 
+Neonatal centronuclear myopathy with N-CAM decorated myotubes.	Goebel HH	1994 Jun	Neuropediatrics	7969799 
+Aberrant arrested in maturation neuromuscular junctions in centronuclear myopathy.	Goebel HH	1994 Jun	Journal of the neurological sciences	7931426 
+[Centronuclear myopathy (myotubular myopathy)].	Woo M	1994	Ryoikibetsu shokogun shirizu	8007367 
+Report on the 20th ENMC sponsored international workshop: myotubular/centronuclear myopathy.	Thomas NS	1994 Jan	Neuromuscular disorders : NMD	8173354 
+Pathological cases of the month. Myotubular myopathy (centronuclear myopathy).	Gilbert-Barness E	1993 Aug	American journal of diseases of children (1960)	8352228 
+Heterogeneity of centronuclear myopathy shown by flow cytometry of nuclear DNA.	Hiddemann W	1993 Apr	Neuropathology and applied neurobiology	8316338 
+[Centronuclear myopathy].	Martínez-Matos JA	1993 Mar	Neurologia (Barcelona, Spain)	8448042 
+Prenatal diagnosis of X-linked centronuclear myopathy by linkage analysis.	Braga S	1993 Feb	Pediatric research	8433896 
+[Centronuclear (myotubular) myopathy: a case report].	Levy JA	1992 Sep-Oct	Revista do Hospital das Clinicas	1340609 
+[Autosomal dominant centronuclear myopathy].	Julien J	1992	Revue neurologique	1295057 
+Centronuclear myopathy--an inherited neuromuscular disorder. A report of 3 cases.	Badenhorst ME	1991 Sep 7	South African medical journal = Suid-Afrikaanse tydskrif vir geneeskunde	1887355 
+Centronuclear myopathy: clinical, morphological and genetic characters. A review of 288 cases.	Doriguzzi C	1991 May	Journal of the neurological sciences	1865227 
+Maternal muscle biopsy in X-linked recessive centronuclear (myotubular) myopathy.	Marks HG	1991 Apr 1	American journal of medical genetics	1867257 
+Muscular pseudohypertrophy in an adult case with centronuclear myopathy.	Yanagisawa N	1991	European neurology	2044633 
+Centronuclear myopathy heterogeneity: distinction of clinical types by myosin isoform patterns.	Shafiq SA	1991 Jan	Neurology	1824643 
+X-linked centronuclear myopathy: mapping the gene to Xq28.	Braga S	1991	Neuromuscular disorders : NMD	1822801 
+Postnatal centralization of muscle fibre nuclei in centronuclear myopathy.	Sengers RC	1991	Neuromuscular disorders : NMD	1822797 
+Severe neonatal asphyxia due to X-linked centronuclear myopathy.	Moser H	1990 Dec	European journal of pediatrics	2279510 
+X linked neonatal centronuclear/myotubular myopathy: evidence for linkage to Xq28 DNA marker loci.	Moser H	1990 May	Journal of medical genetics	2352256 
+A linkage study of a large pedigree with X linked centronuclear myopathy.	Heckmatt J	1990 May	Journal of medical genetics	2352255 
+Centronuclear myopathy and type-1 hypotrophy without central nuclei. Distinct nosologic entities?	Mendell JR	1990 Mar	Archives of neurology	2310312 
+Adult-onset centronuclear myopathy: evidence against a neurogenic pathology.	Carrozza G	1989 Aug	Acta neurologica Scandinavica	2816279 
+Problems in genetic counseling in a family with an "atypical" centronuclear myopathy.	Grimm T	1989 Mar	American journal of medical genetics	2729361 
+Muscle histochemistry in myotubular (centronuclear) myopathy.	Kumagai K	1989	Brain & development	2466417 
+Centronuclear myopathy in black African children--report of 4 cases.	Dawood AA	1987 Nov	Neuropediatrics	3696389 
+Familial centronuclear myopathy: a clinical and pathological study.	Vorre P	1987 Aug	Acta neurologica Scandinavica	3673497 
+Life-threatening congestive heart failure as the presentation of centronuclear myopathy.	Hawkins HK	1987 Mar-Apr	Pediatric neurology	3508053 
+X-linked centronuclear myopathy as a cause of floppy baby.	Van Assche FA	1987 Jan	European journal of obstetrics, gynecology, and reproductive biology	3817270 
+Centronuclear myopathy with unusual clinical picture.	Ferrari G	1987	European neurology	3569369 
+[A case of centronuclear myopathy in adults with facio-scapulo-peroneal topography].	Arne-Bes MC	1987	Revue neurologique	3423586 
+[Myocardiopathy disclosing a centronuclear myopathy in an adult].	Caron C	1986 Nov	Annales de cardiologie et d'angeiologie	3813461 
+Familial X-linked centronuclear myopathy.	Cosgrove J	1986 Nov	Irish journal of medical science	3804673 
+Severe neonatal centronuclear (myotubular) myopathy: an X-linked recessive disorder.	Janzer RC	1986 Oct	Helvetica paediatrica acta	3793508 
+Craniopharyngioma in a boy with centronuclear (myotubular) myopathy: clinical and postmortem findings.	Tangsrud SE	1986 Mar-Apr	Clinical neuropathology	3708957 
+Congenital centronuclear (myotubular) myopathy. A clinical, pathological and genetic study in eight children.	Dubowitz V	1985 Dec	Brain : a journal of neurology	4075080 
+Centronuclear myopathy, cataract, and electrical myotonia: a new case.	Vallat M	1985 Nov-Dec	Muscle & nerve	4079961 
+Centronuclear myopathy. Report of a sporadic case.	Pavia T	1985 Oct	Acta neurologica	4061152 
+Severe neonatal centronuclear myopathy with autosomal dominant inheritance.	Goetz JP	1985 Oct	Archives of neurology	2994607 
+Centronuclear myopathy.	Yngve DA	1985 Aug	Orthopedics	3832049 
+Centronuclear myopathy with unusual mitochondrial abnormalities.	Cornelio F	1985 Jan-Feb	Clinical neuropathology	2983917 
+Centronuclear myopathy with special consideration of the adult form.	Mielke U	1984	European neurology	6542524 
+A case of "centronuclear myopathy" with late clinical onset. Clinical electrophysiological, histochemical study.	Barbieri F	1983 Dec	Acta neurologica	6670600 
+Infantile centronuclear myopathy. Evidence suggesting incomplete innervation.	DeSa D	1983 Jul	Journal of the neurological sciences	6875615 
+[Centronuclear myopathy. Apropos of a new case].	Farriaux JP	1983 Feb 24	La semaine des hopitaux : organe fonde par l'Association d'enseignement medical des hopitaux de Paris	6302904 
+Perinatal diagnosis of myotubular (centronuclear) myopathy: a case report.	Weller RO	1983	Clinical neuropathology	6851300 
+Myopathy with pathological features of both centronuclear myopathy and multicore disease.	McLeod JG	1982 Dec	Journal of the neurological sciences	7161626 
+Type I fiber atrophy and internal nuclei. A form of centronuclear myopathy?	Ninkovic S	1982 Aug	Archives of neurology	6213218 
+[Centronuclear myopathy. Report of a new case].	Farriaux JP	1982 Jun	Annales de pediatrie	7125507 
+[Centronuclear myopathy. Complete review of the literature apropos of a case].	Pages AM	1982	Annales de pathologie	6760877 
+Adult onset centronuclear myopathy with peripheral nerve involvement.	Mouren A	1982	Journal of neurology	6186788 
+Cytopathology of an unusual case of centronuclear myopathy. Light- and electron-microscopic investigations.	Okur H	1981 Jun	Journal of the neurological sciences	6455504 
+Familial centronuclear myopathy.	Pero G	1980 Jul	Acta neurologica Scandinavica	7211157 
+Centronuclear myopathy: extraocular- and limb-muscle findings in an adult.	Ringel SP	1980 Mar-Apr	Muscle & nerve	6445039 
+Centronuclear myopathy with type I fibre hypotrophy and "fingerprint" inclusions associated with Marfan's syndrome.	Benc H	1980 Feb	Journal of the neurological sciences	6244371 
+Centronuclear myopathy: follow-up study of a case reported as an early onset myopathy (1966): muscle biopsies in parents and sibs.	Ceuterick C	1980	Acta neurologica Belgica	7468147 
+Neonatal respiratory insufficiency due to centronuclear myopathy.	Wille L	1979 Sep	Acta paediatrica Scandinavica	525348 
+Centronuclear myopathy.	Proctor NS	1979 Jun	Journal of neurology, neurosurgery, and psychiatry	469562 
+Crural hypertrophy associated with centronuclear myopathy.	Botes A	1979 Jun	Journal of neurology, neurosurgery, and psychiatry	157387 
+Familial centronuclear myopathy: a haploid DNA disease?	Weber U	1979 May 15	Acta neuropathologica	463498 
+[Centronuclear (myotubular) myopathy in a middle-aged woman--histochemical and biochemical study of the muscle biopsy (author's transl)].	Sugita H	1979 Jan	Rinsho shinkeigaku = Clinical neurology	428160 
+Metabolic implications of distal atrophy. Carbohydrate metabolism in centronuclear myopathy.	Vangelder V	1978 Dec	Journal of the neurological sciences	739270 
+Myotonia in centronuclear myopathy.	Alberca R	1978 Dec	Journal of neurology, neurosurgery, and psychiatry	153383 
+Centronuclear myopathy: clinical and pathologic features. Unlike early onset myotonic dystrophy, this condition is not associated with mental retardation or clinical or electric evidences of myotonia.	Cracco JB	1978 Mar	Clinical pediatrics	627121 
+Centronuclear myopathy: possible central nervous system origin.	Gastaut JL	1978 Jan-Feb	Muscle & nerve	752109 
+Histochemical and ultrastructural findings in a case of centronuclear myopathy.	Schiffer D	1978	European neurology	154406 
+[Myotubular or centronuclear myopathy; report of a case and review of the literature].	Vuletin JC	1977 Sep	Arquivos de neuro-psiquiatria	901263 
+[Centronuclear myopathy (author's transl)].	Martens C	1977 Sep-Oct	Acta neurologica Belgica	145158 
+Myotubular (centronuclear) (neuro-)myopathy. I. Clinical, genetical and morphological studies.	Radu A	1977	European neurology	913442 
+Centronuclear myopathy in the newborn period causing severe respiratory distress.	Chokroverty S	1977 Jan	Pediatrics	840536 
+[Familial form of centronuclear myopathy in the adult].	Godlewski S	1976 Dec	Revue neurologique	1013570 
+[Congenital centronuclear myopathy. Two morphological variants in one family (author's transl)].	Hübner G	1976 May 1	Klinische Wochenschrift	131874 
+Familial centronuclear myopathy associated with 'cardiomyopathy'.	De Geest H	1976 May	British heart journal	131568 
+Neuropathy in myotubular or centronuclear myopathy.	Sanz OP	1975 Jun	Arquivos de neuro-psiquiatria	1147795 
+[Centronuclear myopathy with autosomal dominant inheritance(author's transl)].	Gerhard L	1975	Humangenetik	1150240 
+Centronuclear myopathy: histochemistry and electron microscopy. Report of two cases.	Brownell AK	1975 Jan	Archives of pathology	163076 
+[Myotubular myopathy or centronuclear myopathy. Two case reports and review of literature (author's transl)]?	Ricoy JR	1974 Nov-Dec	Anales espanoles de pediatria	4458579 
+A case of centronuclear myopathy.	Gerchev A	1973 Aug 29	Zeitschrift fur Neurologie	4126740 
+Centronuclear myopathy: a light and electron microscopic study and a review of the literature.	Araki S	1973	Folia psychiatrica et neurologica japonica	4741006 
+Centronuclear myopathy in old age.	Haleem MA	1972 Nov	The Journal of pathology	4119091 
+Centronuclear myopathy: disease entity or a syndrome? Light- and electron-microscopic study of two cases and review of the literature.	McCormick WF	1972 Jun	Journal of the neurological sciences	5037445 
+Centronuclear myopathy with autosomal dominant inheritance.	Shorey CD	1972 Apr	Journal of the neurological sciences	5016690 
+Familial centronuclear myopathy.	Watanabe CK	1970 Oct	Journal of neurology, neurosurgery, and psychiatry	5478951 
+[Clinical and ultrastructural study of a case of centronuclear myopathy (myotubular myopathy) in an adult].	Bergouignan M	1970 Aug	Revue neurologique	5516059 
+Centronuclear myopathy with type I fiber atrophy and "myotubes".	Meijer AE	1970 Jul	Archives of neurology	4246348 
+The descending ocular myopathy of early childhood; myotubular or centronuclear myopathy.	Maruffo A	1970	European neurology	5434736 
+Myotubular, centronuclear or Peri-Centronuclear myopathy?	Walton JN	1969 May-Jun	Journal of the neurological sciences	5807281 
+Centronuclear ("myotubular") myopathy.	Coleman RF	1969 Feb	Archives of neurology	5767012 
+Centronuclear myopathy.	Vroom JJ	1968	European neurology	5711397 
+Familial centronuclear myopathy: a clinical and pathological study.	Aronson SM	1967 Aug	Neurology	15088533 

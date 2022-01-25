@@ -1,0 +1,65 @@
+hgvs,var_type,pathogenicity,disorder,rs_id,gnomad_freq
+NM_001198800.3(ASCC1):c.583C>T (p.Gln195Ter),single nucleotide variant,Likely pathogenic,Spinal muscular atrophy with congenital bone fractures 2,NA,NA
+NM_001198800.3(ASCC1):c.813G>A (p.Trp271Ter),single nucleotide variant,Uncertain significance,Spinal muscular atrophy with congenital bone fractures 2,NA,NA
+NM_001198800.3(ASCC1):c.349C>T (p.Arg117Ter),single nucleotide variant,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,NA,NA
+NM_001198800.3(ASCC1):c.490-163T>C,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.113-123C>T,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.113-77C>T,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.-33-241G>A,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.958-4824G>A,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.489+16G>A,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.714C>A (p.Tyr238Ter),single nucleotide variant,Pathogenic,Barrett esophagus,NA,NA
+NM_001198800.3(ASCC1):c.212+39C>A,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.213-722G>A,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.100G>A (p.Asp34Asn),single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.310+126dup,Duplication,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.-33-234del,Deletion,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.-33-243dup,Duplication,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.*108T>C,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.112+235_112+237del,Deletion,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.626+134C>T,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.626+101A>G,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.-33-154T>A,single nucleotide variant,Benign,not provided,NA,NA
+NM_001198800.3(ASCC1):c.213-961C>G,single nucleotide variant,Benign,not provided,NA,NA
+NC_000010.10:g.(?_73970434)_(73973122_?)del,Deletion,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,NA,NA
+NM_001198800.3(ASCC1):c.784C>T (p.Gln262Ter),single nucleotide variant,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,778054296,not reported
+NM_001198800.3(ASCC1):c.311-2A>G,single nucleotide variant,Pathogenic,Inborn genetic diseases,1281256224,0.000008
+NM_001198800.3(ASCC1):c.251dup (p.Glu85fs),Duplication,Pathogenic,Inborn genetic diseases,1856787943,not reported
+NM_001198800.3(ASCC1):c.943C>T (p.Arg315Ter),single nucleotide variant,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,1389098934,0.000004
+NG_031890.1:g.(?_60461)_(94053_?)del,Deletion,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,NA,NA
+NM_001198800.3(ASCC1):c.328C>T (p.Arg110Ter),single nucleotide variant,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,866050664,0.000016
+NM_001198800.3(ASCC1):c.382C>T (p.Arg128Ter),single nucleotide variant,Pathogenic,Spinal muscular atrophy with congenital bone fractures 2,183415577,0.000036
+NM_001198800.3(ASCC1):c.958-5394C>T,single nucleotide variant,Likely benign,not provided,1325142822,0.00004
+NM_001198800.3(ASCC1):c.903A>T (p.Glu301Asp),single nucleotide variant,Benign,not provided,79032469,0.003159
+NM_001198800.3(ASCC1):c.747-4C>G,single nucleotide variant,Benign,not provided,141996717,0.004171
+NM_001198800.3(ASCC1):c.200G>C (p.Ser67Thr),single nucleotide variant,Likely benign,not provided,61758723,0.001993
+NM_001198800.3(ASCC1):c.958-5461C>T,single nucleotide variant,Likely benign,not provided,1051156717,not reported
+NM_001198800.3(ASCC1):c.958-5418C>T,single nucleotide variant,Likely benign,not provided,1589155880,not reported
+NM_001198800.3(ASCC1):c.958-5431T>C,single nucleotide variant,Likely benign,not provided,1320685169,0.000069
+NM_001198800.3(ASCC1):c.213-987C>T,single nucleotide variant,Likely benign,not provided,770470208,0.000134
+NM_001198800.3(ASCC1):c.213-980C>T,single nucleotide variant,Likely benign,not provided,961124288,0.000013
+NM_001198800.3(ASCC1):c.958-5478A>G,single nucleotide variant,Likely benign,not provided,562007486,0.000044
+NM_001198800.3(ASCC1):c.213-956G>A,single nucleotide variant,Benign,not provided,7922614,0.001602
+NM_001198800.3(ASCC1):c.234G>A (p.Gly78=),single nucleotide variant,Likely benign,not provided,201027221,not reported
+NM_001198800.3(ASCC1):c.1044C>T (p.Tyr348=),single nucleotide variant,Benign,not provided,146138639,0.000421
+NM_001198800.3(ASCC1):c.107A>G (p.Tyr36Cys),single nucleotide variant,Conflicting interpretations of pathogenicity,Spinal muscular atrophy with congenital bone fractures 2,145940742,0.000461
+NM_001198800.3(ASCC1):c.942C>A (p.Gly314=),single nucleotide variant,Likely benign,not provided,200877232,0.000092
+NM_001198800.3(ASCC1):c.911A>G (p.Tyr304Cys),single nucleotide variant,Benign,not provided,142208064,0.001695
+NM_001198800.3(ASCC1):c.958-5425A>C,single nucleotide variant,Likely benign,not provided,575692136,0.000451
+NM_001198800.3(ASCC1):c.626+1G>A,single nucleotide variant,Pathogenic,not provided,747595523,0.000024
+GRCh37/hg19 10q22.1(chr10:73908208-73949708)x0,copy number loss,Benign,not provided,NA,NA
+GRCh37/hg19 10p15.3-q26.3(chr10:98087-135477883)x3,copy number gain,Pathogenic,not provided,NA,NA
+GRCh37/hg19 10p15.3-q26.3(chr10:73232-135524321)x3,copy number gain,Pathogenic,not provided,NA,NA
+GRCh37/hg19 10q21.3-23.32(chr10:69040366-93194993)x3,copy number gain,Pathogenic,not provided,NA,NA
+GRCh37/hg19 10q11.21-26.3(chr10:42347406-135534747)x1,copy number loss,drug response,Poly (ADP-Ribose) polymerase inhibitor response,NA,NA
+GRCh37/hg19 10p15.3-q26.3(chr10:100027-135427143),copy number gain,Pathogenic,See cases,NA,NA
+GRCh37/hg19 10p15.3-q26.3(chr10:100027-135427143)x3,copy number gain,Pathogenic,See cases,NA,NA
+GRCh37/hg19 10p15.3-q26.3(chr10:93297-135378918)x3,copy number gain,Pathogenic,See cases,NA,NA
+NM_001198800.3(ASCC1):c.157dup (p.Glu53fs),Duplication,Pathogenic/Likely pathogenic,See cases,753324947,0.000028
+GRCh38/hg38 10q11.23-23.2(chr10:50729367-87147204)x3,copy number gain,Pathogenic,See cases,NA,NA
+GRCh38/hg38 10q21.3-22.2(chr10:63402579-75296099)x1,copy number loss,Pathogenic,See cases,NA,NA
+GRCh38/hg38 10q21.3-22.3(chr10:67196567-79422057)x3,copy number gain,Pathogenic,See cases,NA,NA
+GRCh38/hg38 10q11.21-22.2(chr10:42685306-73715908)x3,copy number gain,Pathogenic,See cases,NA,NA
+GRCh38/hg38 10q21.2-22.2(chr10:62229688-74468143)x1,copy number loss,Pathogenic,See cases,NA,NA
+GRCh38/hg38 10q21.1-22.2(chr10:58436466-74415216)x1,copy number loss,Pathogenic,See cases,NA,NA
+NM_001198800.3(ASCC1):c.869A>G (p.Asn290Ser),single nucleotide variant,Benign/Likely benign,Barrett esophagus/esophageal adenocarcinoma,146370051,0.001169
